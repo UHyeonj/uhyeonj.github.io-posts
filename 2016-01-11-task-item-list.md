@@ -9,9 +9,9 @@ This post tests the style of a task item list.
 Source:
 
 ```markdown
-- [x] Eating
+- [] Eating
 - [ ] Walking
-  - [ ] Running
+  - [x] Running
 - [ ] Sleeping
 ```
 
